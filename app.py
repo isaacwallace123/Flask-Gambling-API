@@ -15,5 +15,7 @@ def main():
 def NotFoundException(Error):
     return Error
 
+print("TEst")
+
 if __name__ == "__main__":
     app.run()
